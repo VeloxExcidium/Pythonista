@@ -1,3 +1,6 @@
+#By VeloxExcidium
+'''A clipboard manager keyboard extention. Press the green button at the bottom of the keyboard to see your full clipboard if it is more than three lines.'''
+
 import keyboard
 import ui
 import clipboard
