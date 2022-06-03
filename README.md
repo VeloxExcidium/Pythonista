@@ -1,7 +1,7 @@
 # Pythonista
 A small repository of Pythonista scripts, most of which are for the keyboard.
 
-## Backspace-by-word
+## Backspace_by_word
 
 This script backspaces by one word from where the cursor is. This script must be run in the Pythonista keyboard.
 
