@@ -1,5 +1,5 @@
 # Pythonista
-A small repository of Pythonista scripts.
+A small repository of Pythonista scripts, most of which are for the keyboard.
 
 ## Backspace-by-word
 
